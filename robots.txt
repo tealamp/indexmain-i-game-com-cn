@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tealamp.github.io/indexmain-i-game-com-cn/sitemap.xml
